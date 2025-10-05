@@ -9,7 +9,7 @@ import { FriendList } from './components/FriendList.jsx';
 const initialFriends = [
   {
     id: 118836,
-    name: "Clark",
+    name: "Amara",
     image: "https://i.pravatar.cc/48?u=118836",
     balance: -7,
   },
